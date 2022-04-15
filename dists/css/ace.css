@@ -1,0 +1,12 @@
+:root{
+    /* Variable of Depo-Theme */
+    /* https://github.com/retorica-puzzle */
+    
+    /* primary color */
+    --primary-light: #fff8e1;
+    --primary-dark: #3e2723;
+
+    /* Font Family */
+    --font-roboto: 'Roboto', sans-serif;
+    --font-oxygen: 'Oxygen', sans-serif;
+}
