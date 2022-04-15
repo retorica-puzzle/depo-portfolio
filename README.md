@@ -1,2 +1,2 @@
-# depo-theme
+# depo-porfolio
 Portolio website for design 
