@@ -6,7 +6,11 @@
     --primary-light: #fff8e1;
     --primary-dark: #3e2723;
 
-    /* Font Family */
+    /* Font Familys */
     --font-roboto: 'Roboto', sans-serif;
     --font-oxygen: 'Oxygen', sans-serif;
+
+    /* Font Sizes */
+    --size-primary: 14px;
+    --size-secondry: 12px;
 }
